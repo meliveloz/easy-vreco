@@ -1,0 +1,24 @@
+div#map{
+  width: 100%;
+  height: 50vh;
+}
+
+body{
+  background-color: #433D3D;
+  color: #A3FFA5;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button{
+  color: black;
+   border-radius: 1.5em;
+   padding: 0.5em;
+   width: 20%;
+   background-color: #A3FFA5;
+}
+.navbar{
+  padding:1em;
+  background-color: #BDFFD9;
+
+}
